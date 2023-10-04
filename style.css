@@ -27,6 +27,22 @@ button {
   box-shadow: 2px 5px 5px #333;
 }
 
+.close {
+  cursor: pointer;
+  top: 50%;
+  right: 0%;
+  padding: 12px;
+}
+
+
+
+
+
+
+
+
+
+
 #list {
   margin: 10px;
   border: 1px solid #333;
